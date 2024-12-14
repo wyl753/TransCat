@@ -1,2 +1,2 @@
 
-Our trained weights is avalible on https://drive.google.com/drive/folders/1JkMQpO9Mr5_uK9wpnt5uXygIZS-rfE_2?usp=drive_link
+Our trained weights is avalible on https://drive.google.com/drive/folders/1bHiVvhdBSXAkFdtggDvbmv0tnNovMJXf?usp=drive_link
